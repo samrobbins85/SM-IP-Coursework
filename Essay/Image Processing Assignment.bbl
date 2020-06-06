@@ -1,0 +1,60 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Buades et~al.()Buades, Coll, and Morel]{schmid_cvpr_2005}
+A.~Buades, B.~Coll, and J.-M. Morel.
+\newblock A non-local algorithm for image denoising.
+\newblock In \emph{2005 {IEEE} Computer Society Conference on Computer Vision
+  and Pattern Recognition ({CVPR}'05)}, volume~2, pages 60--65. {IEEE}.
+\newblock ISBN 978-0-7695-2372-9.
+\newblock \doi{10.1109/CVPR.2005.38}.
+\newblock URL \url{http://ieeexplore.ieee.org/document/1467423/}.
+
+\bibitem[Buades et~al.(2011)Buades, Coll, and Morel]{buades_non-local_2011}
+Antoni Buades, Bartomeu Coll, and Jean-Michel Morel.
+\newblock Non-{Local} {Means} {Denoising}.
+\newblock \emph{Image Processing On Line}, 1, September 2011.
+\newblock ISSN 2105-1232.
+\newblock \doi{10.5201/ipol.2011.bcm_nlm}.
+\newblock URL \url{http://www.ipol.im/pub/art/2011/bcm_nlm/?utm_source=doi}.
+
+\bibitem[Buades et~al.(2005)Buades, Coll, and Morel]{buades_review_2005}
+A.~Buades, B.~Coll, and J.~M. Morel.
+\newblock A {Review} of {Image} {Denoising} {Algorithms}, with a {New} {One}.
+\newblock \emph{Multiscale Modeling \& Simulation}, 4\penalty0 (2):\penalty0
+  490--530, January 2005.
+\newblock ISSN 1540-3459, 1540-3467.
+\newblock \doi{10.1137/040616024}.
+\newblock URL \url{http://epubs.siam.org/doi/10.1137/040616024}.
+
+\bibitem[mac()]{machine_2018}
+Machine learning: an introduction to mean squared error and regression lines.
+\newblock URL
+  \url{https://www.freecodecamp.org/news/machine-learning-mean-squared-error-regression-line-c7dde9a26b93/}.
+
+\bibitem[Zhang et~al.(2017)Zhang, Zeng, Zhang, Wang, Liang, and
+  Ma]{zhang_applications_2017}
+Hao Zhang, Dong Zeng, Hua Zhang, Jing Wang, Zhengrong Liang, and Jianhua Ma.
+\newblock Applications of nonlocal means algorithm in low-dose {X}-ray {CT}
+  image processing and reconstruction: {A} review.
+\newblock \emph{Medical Physics}, 44\penalty0 (3):\penalty0 1168--1185, March
+  2017.
+\newblock ISSN 00942405.
+\newblock \doi{10.1002/mp.12097}.
+\newblock URL \url{http://doi.wiley.com/10.1002/mp.12097}.
+
+\bibitem[Ali and Hardie(2017)]{ali_recursive_2017}
+Redha~A. Ali and Russell~C. Hardie.
+\newblock Recursive non-local means filter for video denoising.
+\newblock \emph{EURASIP Journal on Image and Video Processing}, 2017\penalty0
+  (1):\penalty0 29, December 2017.
+\newblock ISSN 1687-5281.
+\newblock \doi{10.1186/s13640-017-0177-2}.
+\newblock URL
+  \url{https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-017-0177-2}.
+
+\end{thebibliography}

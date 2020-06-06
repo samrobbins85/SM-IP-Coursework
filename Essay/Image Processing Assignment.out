@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{A description of the non-local means denoising algorithm}{}% 1
+\BOOKMARK [1][-]{section.2}{Various implementations of the algorithm and their efficiency}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Pixelwise}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Patchwise}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{The strengths and limitations of non-local means compared to other denoising algorithms}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Method noise}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Mean square error}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{The influence of the algorithmic parameters on the output}{}% 8
+\BOOKMARK [1][-]{section.5}{Modifications and extensions of the algorithm that have been proposed in the literature}{}% 9
+\BOOKMARK [2][-]{subsection.5.1}{Testing stationarity}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.2}{Multiscale version}{section.5}% 11
+\BOOKMARK [1][-]{section.6}{Applications of the original algorithm and its extensions}{}% 12
+\BOOKMARK [2][-]{subsection.6.1}{Medical Imaging}{section.6}% 13
+\BOOKMARK [2][-]{subsection.6.2}{Video Denoising}{section.6}% 14
+\BOOKMARK [1][-]{section*.4}{Appendices}{}% 15
